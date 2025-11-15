@@ -1,0 +1,4 @@
+
+DIALOGUE
+
+Recopier les fichiers .java avec leurs fichiers.frm dans le package dialogue.
